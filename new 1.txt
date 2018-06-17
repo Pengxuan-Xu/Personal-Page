@@ -1,0 +1,7 @@
+/* colour pallet
+	Font(dark) 		#2E2E2E
+	Font(Normal)	#3A4145
+	Font(Highlight)	#0096CC
+	Seperate		#AAAAAA
+	Backgroud		#F5F8FA
+*/
